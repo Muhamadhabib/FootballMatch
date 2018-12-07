@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_date" type="id"/>
+    <item name="tv_date1" type="id"/>
+    <item name="tv_home" type="id"/>
+    <item name="tv_home1" type="id"/>
+    <item name="tv_home_score" type="id"/>
+    <item name="tv_home_score1" type="id"/>
+    <item name="tv_away_score" type="id"/>
+    <item name="tv_away_score1" type="id"/>
+    <item name="tv_away" type="id"/>
+    <item name="tv_away1" type="id"/>
+    <item name="listEvent" type="id"/>
+    <item name="rv_list" type="id" />
+    <item name="list" type="id" />
+    <item name="listPrev" type="id" />
+    <item name="listNext" type="id" />
+    <item name="team_badge" type="id"/>
+    <item name="team_name" type="id"/>
+    <item name="spinner" type="id" />
+    <item name="button" type="id" />
+    <item name="p_img" type="id" />
+    <item name="p_name" type="id" />
+    <item name="p_pos" type="id" />
+</resources>
