@@ -1,2 +1,2 @@
 # FootballMatch
-final project KADE dicoding
+final submission KADE dicoding
